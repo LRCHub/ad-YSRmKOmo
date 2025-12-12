@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ARCADIA",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2025-12-12T14:30:28.808894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Arcadia_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Arcadia",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/02_Sweet_Arcadia_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Apparat",
+      "has_synced": true,
+      "path": "select/03_Arcadia_Apparat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Ramona Lisa",
+      "has_synced": true,
+      "path": "select/04_Arcadia_Ramona_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Arcadia Reprise",
+      "artist": "Ramona Lisa",
+      "has_synced": true,
+      "path": "select/05_Arcadia_Reprise_Ramona_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arcadia (The Great Escape)",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/06_Arcadia_(The_Great_Escape)_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Like Arcadia",
+      "artist": "Psychic TV",
+      "has_synced": true,
+      "path": "select/07_Just_Like_Arcadia_Psychic_TV.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovely Lady of Arcadia",
+      "artist": "דמיס רוסוס",
+      "has_synced": true,
+      "path": "select/08_Lovely_Lady_of_Arcadia_דמיס_רוסוס.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Arcadia - 7 \"",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/09_Arcadia_-_7_ASH.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Arcadia (7\")",
+      "artist": "Ash",
+      "has_synced": true,
+      "path": "select/10_Arcadia_(7_)_Ash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Arcadia_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Hardwell & Joey Dale feat. Luciana",
+      "has_synced": true,
+      "path": "select/12_Arcadia_Hardwell_&_Joey_Dale_feat._Luciana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Arcadia",
+      "artist": "Hardwell And Joey Dale Feat. Luciana",
+      "has_synced": true,
+      "path": "select/13_Arcadia_Hardwell_And_Joey_Dale_Feat._Luciana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Arcadia(Original Mix)",
+      "artist": "Hardwell & Joey Dale feat. Luciana",
+      "has_synced": true,
+      "path": "select/14_Arcadia(Original_Mix)_Hardwell_&_Joey_Dale_feat._Luciana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Arcadia (Original Mix)",
+      "artist": "Hardwell & Joey Dale feat. Luciana",
+      "has_synced": true,
+      "path": "select/15_Arcadia_(Original_Mix)_Hardwell_&_Joey_Dale_feat._Luciana.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Arcadia - Radio Edit",
+      "artist": "Hardwell feat. Joey Dale & Luciana",
+      "has_synced": true,
+      "path": "select/16_Arcadia_-_Radio_Edit_Hardwell_feat._Joey_Dale_&_Luciana.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Arcadia (Radio Edit)",
+      "artist": "Hardwell & Joey Dale ft. Luciana",
+      "has_synced": true,
+      "path": "select/17_Arcadia_(Radio_Edit)_Hardwell_&_Joey_Dale_ft._Luciana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ARCADIA",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_ARCADIA_ヰ世界情緒.txt"
+    }
+  ]
+}
